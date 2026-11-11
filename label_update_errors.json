@@ -1,0 +1,74 @@
+[
+    {
+        "source_id": "rec-7454",
+        "issue_key": "TYN-62",
+        "status": "No response",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+        "source_id": "rec-6476",
+        "issue_key": "TYN-61",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-61?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-7477",
+        "issue_key": "TYN-60",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-60?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-3880",
+        "issue_key": "TYN-59",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-59?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-9712",
+        "issue_key": "TYN-58",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-58?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "req-10",
+        "issue_key": "TYN-57",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-57?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-2112",
+        "issue_key": "TYN-56",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-56?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-2365",
+        "issue_key": "TYN-55",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-55?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-4764",
+        "issue_key": "TYN-54",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-54?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "req-04",
+        "issue_key": "TYN-53",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-53?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-1574",
+        "issue_key": "TYN-52",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-52?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "source_id": "rec-4554",
+        "issue_key": "TYN-51",
+        "status": "No response",
+        "error": "HTTPSConnectionPool(host='tyn-release-lab.atlassian.net', port=443): Max retries exceeded with url: /rest/api/3/issue/TYN-51?fields=labels (Caused by NameResolutionError(\"HTTPSConnection(host='tyn-release-lab.atlassian.net', port=443): Failed to resolve 'tyn-release-lab.atlassian.net' ([Errno 11001] getaddrinfo failed)\"))"
+    }
+]

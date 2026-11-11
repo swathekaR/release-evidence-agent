@@ -1,0 +1,21 @@
+{
+    "dataset_label": "tyn-release-assessment-v2",
+    "project": "TYN",
+    "dry_run": false,
+    "issues_checked": 400,
+    "comments": {
+        "expected": 2059,
+        "created": 2059,
+        "already_present": 0,
+        "failed": []
+    },
+    "links": {
+        "expected": 76,
+        "created": 76,
+        "already_present": 0,
+        "failed": []
+    },
+    "label_failures": [],
+    "started_at": "2026-11-10T21:44:17+0530",
+    "completed_at": "2026-11-10T22:04:33+0530"
+}
